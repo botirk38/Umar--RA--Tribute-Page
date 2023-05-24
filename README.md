@@ -4,7 +4,7 @@ This is a tribute page for Umar Ibn Al Khattab (RA), the second Rashidun caliph 
 
 ## Live Demo
 
-Check out the live demo of the Umar Ibn Al Khattab (RA) Tribute Page [here](https://example.com/umar-ibn-al-khattab-tribute).
+Check out the live demo of the Umar Ibn Al Khattab (RA) Tribute Page [here](https://botirk38.github.io/Umar--RA--Tribute-Page/).
 
 ## Features
 
