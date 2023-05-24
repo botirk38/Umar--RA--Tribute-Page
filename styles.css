@@ -1,0 +1,88 @@
+body {
+    background-color: #F5F5DC;
+    font-family: 'Arial', sans-serif;
+    color: #5D6D7E;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#main {
+    width: 80%;
+    background: #FDFEFE;
+    padding: 20px;
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.19), 0px 6px 6px rgba(0,0,0,0.23);
+    border-radius: 10px;
+}
+
+h1, h3 {
+    text-align: center;
+    color: #21618C;
+}
+
+p {
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+    border-radius: 10px;
+}
+
+#img-caption {
+    background-color: #D5DBDB;
+    margin:30px;
+    padding: 10px;
+    font-size: 1.2em;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#tribute-info {
+    margin: 40px 0;
+}
+
+#tribute-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#tribute-info ul li {
+    background: #D5DBDB;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+#tribute-info ul li:hover {
+    background: #ABB2B9;
+}
+
+#tribute-link {
+    text-align: center;
+    margin: 40px 0;
+}
+
+#tribute-link a {
+    text-decoration: none;
+    color: #21618C;
+    transition: color 0.3s ease;
+}
+
+#tribute-link a:hover {
+    color: #3498DB;
+}
